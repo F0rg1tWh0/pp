@@ -30,4 +30,7 @@ if A > 0:
             if start[3] >= end[3]:
                 print('YES')
             else: print('NO')
-else:print('NO')
+        else:print('NO')
+    else: print('NO')
+else:
+    print('NO')
